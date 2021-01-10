@@ -9,4 +9,6 @@
 |基于protobuf和gRPC的消息订阅服务器和客户端|如题。支持配置最短消息存在时间和最大连接客户端数|
 |计算机图形学期中项目|实验版本代码。实现了图像间的色彩转换和不同色彩空间颜色通道相关性的比较。上交的版本在计算机图形学作业的库里|
 |（双向）快速拓展随机数|地图场景的构建、RRT和双向RRT算法的实现|
-|基于稀疏表示求解的人脸识别|论文《Robust Face Recognition via Sparse Representation》内容的简单实现与结果分析
+|基于稀疏表示求解的人脸识别|论文《Robust Face Recognition via Sparse Representation》内容的简单实现与结果分析|
+|巡线小车|基于v-rep的matlab接口的巡线小车仿真，使用PD控制算法|
+|图书买卖数据库系统|支持进货、买书卖书退书等的图书管理系统，使用python编写，mysql数据库，含GUI|
