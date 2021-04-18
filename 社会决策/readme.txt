@@ -2,4 +2,11 @@ main为主函数。util含有多模块共用的基本函数和全局变量。par
 
 src存放所有图片， res为输出的表单
 
-config.ini里可以进行基本的配置，开关debug模式可以将DEBUG设置为T或F，IMG_PIC为图片的数量，对应着第二和第三部分题目的数量。从1开始计数，格式固定为png
+config.ini里可以进行基本的配置：
+- DEBUG：开关debug模式，可以设置为T或F
+- IMG_PIC：图片的数量，对应着第二和第三部分题目的数量。从1开始计数，格式固定为png
+- TITLE_FONT_SIZE：标题字号
+- TEXT_FONT_SIZE：正文字号
+- PIC_SIZE=500,170：图片大小
+- TITLE_PREFIX_EMPTY_LINE_NUM：标题前的空行数
+- TITLE_SUFFIX_EMPTY_LINE_NUM：标题后的空行数
